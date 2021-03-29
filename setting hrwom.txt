@@ -1,0 +1,7 @@
+setting hrwom
+
+php.ini
+register_global=On
+
+session.gc_maxlifetime=900
+session.cookie_lifetime=900
